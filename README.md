@@ -1,7 +1,7 @@
 # DM_Dx: diabetes early prediction 
 
 This study intends to develop Machine learning algorithms to predict diabetes risk and compare ML models with conventional statistical methods like Logistic Regression to find the superior technique for diabetes prediction.
-the best way to use these models for diabetes prediction is to use its coresponding web applicaton. Link: 
+the best way to use these models for diabetes prediction is to use its coresponding [web applicaton](https://github.com/tajerian/DM_Dx-APP).
 
 ### requirements:
 
