@@ -22,3 +22,5 @@ for all models except the Decision tree, you need to preprocess data using the s
 the instances variables should be given to the models in this order:
 [[Age, PF, BMI, Insulin level, Skin Thickness, Blood Pressure, Glucose level, number of Pregnancies]]
 
+### models comparison
+![enter image description here](https://github.com/tajerian/diabetes_Dx_ML/blob/main/Figure%205,ROC.png?raw=true)
